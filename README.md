@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a distributed cache system in C++.<br>👯 I’m looking to collaborate on GitHub.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: "Brainfuck  language has just eight commands but is Turing complete, capable of any computation."
+🔭 I’m currently working on a Distributed cache system in C++.<br>👯 I’m looking to collaborate on GitHub.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: "Brainfuck  language has just eight commands but is Turing complete, capable of any computation."
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=Indiser&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Indiser&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Indiser&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Indiser&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
