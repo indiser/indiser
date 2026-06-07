@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Redis clone in C++.<br>👯 I’m looking to collaborate on GitHub.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: "Brainfuck  language has just eight commands but is Turing complete, capable of any computation."
+🔭 I’m currently working on a Real Time chat application.<br>👯 I’m looking to collaborate on GitHub.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: "Brainfuck  language has just eight commands but is Turing complete, capable of any computation."
 
 
 ## 🌐 Socials:
