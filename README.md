@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Real Time chat application.<br>👯 I’m looking to collaborate on GitHub.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: "The term "computer bug" originated from an actual moth that got stuck in a relay of a computer in 1947, causing a malfunction."
+🔭 I’m currently working on a Smart Web Crawler.<br>👯 I’m looking to collaborate on GitHub.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: "The term "computer bug" originated from an actual moth that got stuck in a relay of a computer in 1947, causing a malfunction."
 
 
 ## 🌐 Socials:
